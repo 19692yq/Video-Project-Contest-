@@ -1,31 +1,30 @@
 # Video-Project-Contest-
-Earth's water dries up to empower AI chips, transforming Antarctica into a landscape of AI dunes.
+Theme: Earth's water dries up to empower AI chips, transforming Antarctica into a landscape of AI dunes.
+Plot: AI chips are blown to pieces by the underground Antarctica power. 《br/》
+      Blue whale haunting.
 
-## Deliverables
+## URL
 - **YouTube Video Link**: https://youtu.be/_FKqoMHJUn0
-- **GitHub Repository**:
-<br/>
+- **GitHub Repository**:https://github.com/19692yq/Video-Project-Contest-.git
+
 # Generate-a-video
 Tools:
-1.	Use Websim.ai to create an animation video.
-2.	Use ChatGPT 4 to optimize and refine the prompt.
-3.	Use Google to search online images and related documents and feed the contents to ChatGPT4.
-4.	Use Window screen recording to record the HTML file and background music
-5.	Upload video recording on YouTube
-6.	Use Github to store the project, report, Readme file, and generate project link
-7.	Include the GitHub link in the Resume.
-
-# Animation Video Project
+1. ChatGPT4O to optimize and refine prompts and images. 
+2. Haiper.ai to convert images to video 
+3. Kapwing.com to edit video
+4. Google to search background music
+5. Upload video recording on YouTube
+6. Github to store the project, report, Readme file, and generate project link
 
 ## Project Overview
-This project involves creating an animation video using Websim.ai, optimizing it with ChatGPT 4, and enhancing it with online resources. The final video is recorded and uploaded to YouTube, with all project files stored on GitHub.
+This project utilizes various online AI tools to create a video highlighting the risks of over-developing AI technologies and how they endanger the living environment.
 
 ## Steps
-1. **Use Websim.ai to Create an Animation Video**
-2. **Use ChatGPT 4 to Optimize and Refine Prompt**
-3. **Use Google to Search Online Images and Related Documents and Feed the Contents to ChatGPT 4**
-4. **Use Windows Screen Recording to Record the HTML File and Background Music**
-5. **Upload Video Recording to YouTube**
-6. **Use GitHub to Store the Project, Report, Readme File, and Generate Project Link**
-7. **Include the GitHub Link in the Resume**
+1. Generate idea
+2. Create an initial prompt, and use ChatGPT4O to optimize the prompt and generate vedio scripts
+3. Generate and optimize images using ChatGPT4O
+4. Convert images to video in Haiper.ai. Add prompt and features to generate an 8-second video.
+5. Edit video in Kapwing.com. Add prompts and features to generate subtitles and background music.
+6. Generate process report in PDF format.
+7. Create a new responsory in Github, complete Readme, and upload the report. 
 
